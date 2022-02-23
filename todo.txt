@@ -1,0 +1,15 @@
+Instructions for new website
+
+Update "Location" to actual location.
+Update "Service" to actual service.
+Download four 550px square images that demonstrate the four main features of the service and save into img folder in the format "service-feature-img-1".
+Select suitable 3 colour scheme that makes website look good with the images selected.
+Select suitable font using google fonts or similar.
+
+
+
+
+
+
+Social Media icons are from inconsdb.com
+iconsDB.com currently has 4215 icons in the database that you can customize and download in any color and any size you want ! 692,833,365 icon downloads and counting ! 2739 icons can be used freely in both personal and commercial projects with no attribution required, but always appreciated and 1476 icons require a link to be used. All logos and trademarks presented in some icons are copyright of their respective trademark owners.
